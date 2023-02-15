@@ -1,0 +1,16 @@
+---------FRESNEL DIFFRACTION---------
+
+    -A university assignment
+
+    This project uses two numerical methods of intergration - Simpson's method/rule and Gaussian quadrature - to evalute an integral derived by fresnel to describe both near and far field diffraction. 
+
+
+    -----PROJECT OVERVIEW----
+
+    Skills shown:   Data Visualisation, Data Analysis, 
+                    Report writting, Qualitative analysis
+
+
+    -----------Running information-----------
+
+    run main.py and follow given steps.
